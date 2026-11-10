@@ -1,0 +1,24 @@
+{
+  "account": "0x0f8c3715e2149b71B8f5AeB0Fb303d996437aE50",
+  "contract": "0x6F720E0DA299b66dDD298A8e3188063A8b78f3Db",
+  "deploy_tx": "0xd25d3e73675af68bd10106cd4b51cbbfe21a9588cf1b756ec1e9d409982f6977",
+  "register_tx": "0x4a5276fd31b1f0c701742effed7bf6baa0d2970daf74ac6cd2670d52618281f0",
+  "assess_tx": "0x4b3cdd90c40817d239949dba40026df600b4baa9107b64bf4e0f0a2d9ad22162",
+  "assessment": {
+    "benchmark": "MMLU",
+    "benchmark_present": false,
+    "claim_supported": false,
+    "claim_url": "https://huggingface.co/google/gemma-2-9b-it",
+    "claimed_score_bps": 7130,
+    "decision": 2,
+    "evidence_supported": false,
+    "evidence_url": "https://arxiv.org/html/2408.00118",
+    "model_id": "google/gemma-2-9b-it",
+    "publisher": "0x0f8c3715e2149b71B8f5AeB0Fb303d996437aE50",
+    "round": 1,
+    "source_consistency": "insufficient",
+    "state": 1,
+    "summary": "Neither the claim source (Hugging Face model card for gemma-2-9b-it) nor the independent evidence (Gemma 2 technical report) explicitly reports an MMLU score of 71.30% (7130 basis points) for the gemma-2-9b-it model. The claim source does not contain any MMLU benchmark figures, and the independent evidence excerpt does not include MMLU benchmark results either.",
+    "tolerance_bps": 50
+  }
+}

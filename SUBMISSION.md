@@ -1,4 +1,4 @@
-﻿# Portal submission draft
+# Portal submission draft
 
 ## Category
 
@@ -11,9 +11,9 @@ Evaluation Claim Gate is a reusable GenLayer primitive for verifying public AI b
 ## Live evidence
 
 - Public source repository: https://github.com/Fan-Yu0/genlayer-eval-claim-gate
-- Contract: `TBD`
-- Deployment transaction: `TBD`
-- Assessment transaction: `TBD`
+- Contract: `0x6F720E0DA299b66dDD298A8e3188063A8b78f3Db`
+- Deployment transaction: `0xd25d3e73675af68bd10106cd4b51cbbfe21a9588cf1b756ec1e9d409982f6977`
+- Assessment transaction: `0x4b3cdd90c40817d239949dba40026df600b4baa9107b64bf4e0f0a2d9ad22162`
 
 ## First live example
 
